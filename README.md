@@ -3,6 +3,8 @@
 ## Overview of Project
 Kickstarter is a crowdfunding platform that enables people around the world to donate to organizations and causes. Our client wishes to organize a play caled **Fever**, and aims to raise $10,000 on Kickstarter to accomplish this. In order to advise the client on how to organize the campaign, the Kickstarter outcomes of different theater campaigns were analyzed across different variables, such as the campagin launch date and monetary goal. Visualizations of the data suggest that our client should start their fundraising in the early summer, especially May, since theater campaigns have the highest success rate during this time of the year. As for finances, plays with a fundraising goal between $10,000-$14,999 have a success rate of roughly 55%, and those between $5,000-$9,999 were roughly 55% as well. From these rates, it would normally be advised that the cient avoid lowering the goal much below $10,000 because there will not be a higher success rate until the $1000-$4,999 range. However, the average successful campaign goal for all campaigns of all categories is $5,050, in contrast to $10,550 for failed campaigns. Therefore, a goal between $5,000-$9,999 is advised. Overall, theater campaigns have been more successful in the U.S. compared to other cateogries, so fundraising for a play is a viable option.
 
+![Kickstarter-Challenge](/Users/johnwhendricks/Desktop/classFolder/CrowdfundingAnalysis/Kickstarter-Challenge.xlsx)
+
 ### Purpose
 To understand what makes a successful campaign, an analysis was performed on Kickstarter data from 2009 - 2017 for over 4,000 campaigns in a variety of categories, e.g. theater, concerts, and television. Our client, Louise, plans to launch a Kickstarter for her play, **Fever**, with a budget of $10,000, but would like information on the factors that dictate the success or failure of a campaign. The analysis revealed that the outcome of campaigns correlated strongly with their launch date, funding goals, and fundraising cateogry. 
 
@@ -16,7 +18,7 @@ The month of the launch date dictated the success and fail rates for plays in th
 ### Analysis of Outcomes Based on Goals
 As seen in the line chart below, the theater campaigns that succeeded the most frequently were those that set their goal less than $5,000 - the success rate was roughly 65%. Nevertheless, theater campaigns that set a goal between $5,000 and $15,000 had success rate of roughly 55%. Beyond $15,000, the sucess rate plummets and the failure rate sharply rises, and these changes only reverse at a goal of roughly $30,000, which is out of range of our client's budget. It should be noted that the fail rate steadily increases from $1,000 to $5,000 but then levels off from $5000 to $15,000. However, this line chart does not take into account that the average failed campaign across all categories had a goal of $10,550 (see **Results** section). Therefore, lowering the goal between $5,000 and $9,999 would be the safest option.
 
-![Outcomes_vs_Goals](/Users/johnwhendricks/Desktop/classFolder/resources/Outcomes_vs_Goals.png)
+![Outcomes-vs-Goals](/Users/johnwhendricks/Desktop/classFolder/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
@@ -26,7 +28,7 @@ An analysis was to be performed on the blurb column, but some characters were no
 
 Another issue arrises when analyzing monetary data across different countries. Although the dataset is in dollars, the actually currency must be taken into account. For example, $100 in GBP is $126 in USD. In this project, there was no analysis of financial data among countries, but if Louise wished to compare the success of plays between Great Britain and the U.S., as she mentioned previously, then the currency would have to be accounted for. 
 
-![Kickstarter_Challenge](/Users/johnwhendricks/Desktop/classFolder/CrowdfundingAnalysis/Kickstarter_Challenge.xlsx)
+![Kickstarter-Challenge](/Users/johnwhendricks/Desktop/classFolder/CrowdfundingAnalysis/Kickstarter_Challenge.xlsx)
 
 ## Results
 
