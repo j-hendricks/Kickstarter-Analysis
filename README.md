@@ -28,14 +28,12 @@ An analysis was to be performed on the blurb column, but some characters were no
 
 Another issue arrises when analyzing monetary data across different countries. Although the dataset is in dollars, the actually currency must be taken into account. For example, $100 in GBP is $126 in USD. In this project, there was no analysis of financial data among countries, but if Louise wished to compare the success of plays between Great Britain and the U.S., as she mentioned previously, then the currency would have to be accounted for. 
 
-![Kickstarter-Challenge](/Users/johnwhendricks/Desktop/classFolder/CrowdfundingAnalysis/Kickstarter_Challenge.xlsx)
-
 ## Results
 
 In the U.S. from 2009-2017, fundraising for theaters experienced a higher success rate than that of any other category. Among musicals, plays and spaces, plays had the highest success rate, as seen in the second bar graph. This means a fundraising for a play would likely succeed in the U.S.
 
 ![US-Stacked-Bar-Chart](US-Stacked-Bar-Chart.png)
-![US-Subcat-theater-stacked-bar-chart](/Users/johnwhendricks/Desktop/classFolder/CrowdfundingAnalysis/US-Subcat-theater-stacked-bar-chart.png)
+![US-Subcat-theater-stacked-bar-chart](US-Subcat-theater-stacked-bar-chart.png)
 
 A majority of the U.S. campaigns that failed set their funding goals far higher than the successful campaigns. The average goal was $5,050 for successful US kickstarters, but $10,550 for the failed fundraisers. However, the average pledge was $5,600 for those that succeded versus $560 for those that failed, meaning the unsuccessful kickstarters failed due to factors other than setting the price range too high. 
 
@@ -43,7 +41,7 @@ The client has set their fundraising goal to be $10,000, but the average failed 
 
 Our client also expressed an interest in fundraising a musical in GB with a goal of 5,000 pounds. The box plot shows the distribution of musicals in Great Britain. Half the pledges ranged from 0.00-1,800.00 pounds. Therefore, a goal closer to 2,000 pounds would be a safer option for fundraising a musical in GB. However, of the 5 plays that the client preferred, all succeeded, and monetary goal ranged from 1,000-4,000 pounds, with the pledges exceeding their goals by 1% more up to 172% more. Therefore, if the client fundraised for one of these 5 musicals, she could safely set a goal near 4,000 pounds. 
 
-![Box-Plot-John-Hendricks](/Users/johnwhendricks/Desktop/classFolder/CrowdfundingAnalysis/Box-Plot-John-Hendricks.png)
+![Box-Plot-John-Hendricks]()
 
 ### Final Thoughts
 
