@@ -34,7 +34,7 @@ Another issue arrises when analyzing monetary data across different countries. A
 
 In the U.S. from 2009-2017, fundraising for theaters experienced a higher success rate than that of any other category. Among musicals, plays and spaces, plays had the highest success rate, as seen in the second bar graph. This means a fundraising for a play would likely succeed in the U.S.
 
-![US-Stacked-Bar-Chart](/Users/johnwhendricks/Desktop/classFolder/CrowdfundingAnalysis/US-Stacked-Bar-Chart.png)
+![US-Stacked-Bar-Chart](US-Stacked-Bar-Chart.png)
 ![US-Subcat-theater-stacked-bar-chart](/Users/johnwhendricks/Desktop/classFolder/CrowdfundingAnalysis/US-Subcat-theater-stacked-bar-chart.png)
 
 A majority of the U.S. campaigns that failed set their funding goals far higher than the successful campaigns. The average goal was $5,050 for successful US kickstarters, but $10,550 for the failed fundraisers. However, the average pledge was $5,600 for those that succeded versus $560 for those that failed, meaning the unsuccessful kickstarters failed due to factors other than setting the price range too high. 
