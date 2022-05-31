@@ -18,7 +18,7 @@ The month of the launch date dictated the success and fail rates for plays in th
 ### Analysis of Outcomes Based on Goals
 As seen in the line chart below, the theater campaigns that succeeded the most frequently were those that set their goal less than $5,000 - the success rate was roughly 65%. Nevertheless, theater campaigns that set a goal between $5,000 and $15,000 had success rate of roughly 55%. Beyond $15,000, the sucess rate plummets and the failure rate sharply rises, and these changes only reverse at a goal of roughly $30,000, which is out of range of our client's budget. It should be noted that the fail rate steadily increases from $1,000 to $5,000 but then levels off from $5000 to $15,000. However, this line chart does not take into account that the average failed campaign across all categories had a goal of $10,550 (see **Results** section). Therefore, lowering the goal between $5,000 and $9,999 would be the safest option.
 
-![Outcomes-vs-Goals](/Users/johnwhendricks/Desktop/classFolder/resources/Outcomes_vs_Goals.png)
+![Outcomes-vs-Goals](Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
