@@ -13,12 +13,12 @@ To understand what makes a successful campaign, an analysis was performed on Kic
 ### Analysis of Outcomes Based on Launch Date
 The month of the launch date dictated the success and fail rates for plays in the U.S. As seen in the line chart below, the month with the higest success rate was May, so this would be the best time to launch the kickstarter. The line chart for theater outcomes suggests that June and July are also viable options if the month of May is not possible. In other words, early summer is the best time to start a campaign. It is advised to avoid launching a campaign in October or November since the success rate between Summer and Fall decreases sharply. The failure rate is steady over the course of the year, so the fail rate need not be addressed when comparing success rates.
 
-![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](images/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 As seen in the line chart below, the theater campaigns that succeeded the most frequently were those that set their goal less than $5,000 - the success rate was roughly 65%. Nevertheless, theater campaigns that set a goal between $5,000 and $15,000 had success rate of roughly 55%. Beyond $15,000, the sucess rate plummets and the failure rate sharply rises, and these changes only reverse at a goal of roughly $30,000, which is out of range of our client's budget. It should be noted that the fail rate steadily increases from $1,000 to $5,000 but then levels off from $5000 to $15,000. However, this line chart does not take into account that the average failed campaign across all categories had a goal of $10,550 (see **Results** section). Therefore, lowering the goal between $5,000 and $9,999 would be the safest option.
 
-![Outcomes-vs-Goals](Outcomes_vs_Goals.png)
+![Outcomes-vs-Goals](images/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
@@ -34,8 +34,8 @@ Another issue arrises when analyzing monetary data across different countries. A
 
 In the U.S. from 2009-2017, fundraising for theaters experienced a higher success rate than that of any other category. Among musicals, plays and spaces, plays had the highest success rate, as seen in the second bar graph. This means a fundraising for a play would likely succeed in the U.S.
 
-![US-Stacked-Bar-Chart](US-Stacked-Bar-Chart.png)
-![US-Subcat-theater-stacked-bar-chart](US-Subcat-theater-stacked-bar-chart.png)
+![US-Stacked-Bar-Chart](images/US-Stacked-Bar-Chart.png)
+![US-Subcat-theater-stacked-bar-chart](images/US-Subcat-theater-stacked-bar-chart.png)
 
 A majority of the U.S. campaigns that failed set their funding goals far higher than the successful campaigns. The average goal was $5,050 for successful US kickstarters, but $10,550 for the failed fundraisers. However, the average pledge was $5,600 for those that succeded versus $560 for those that failed, meaning the unsuccessful kickstarters failed due to factors other than setting the price range too high. 
 
@@ -43,7 +43,7 @@ The client has set their fundraising goal to be $10,000, but the average failed 
 
 Our client also expressed an interest in fundraising a musical in GB with a goal of 5,000 pounds. The box plot shows the distribution of musicals in Great Britain. Half the pledges ranged from 0.00-1,800.00 pounds. Therefore, a goal closer to 2,000 pounds would be a safer option for fundraising a musical in GB. However, of the 5 plays that the client preferred, all succeeded, and monetary goal ranged from 1,000-4,000 pounds, with the pledges exceeding their goals by 1% more up to 172% more. Therefore, if the client fundraised for one of these 5 musicals, she could safely set a goal near 4,000 pounds. 
 
-![Box-Plot-John-Hendricks](Box-Plot-John-Hendricks.png)
+![Box-Plot-John-Hendricks](images/Box-Plot.png)
 
 ### Final Thoughts
 
